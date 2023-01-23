@@ -15,6 +15,26 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/SummerSec/github-profile/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
+```
+
+    
+
+---
+
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/SummerSec/github-profile/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
